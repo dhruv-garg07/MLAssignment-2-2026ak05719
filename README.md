@@ -57,7 +57,6 @@ Customer churn (attrition) is a critical revenue challenge in the telecommunicat
 MLAssignment-2/
 ├── app.py                         # Interactive Streamlit web application (inference-only)
 ├── requirements.txt               # Python package dependencies for deployment
-├── runtime.txt                    # Python 3.12 runtime specification
 ├── README.md                      # Project documentation, metrics, and model analysis
 ├── test_data.csv                  # Held-out test split (630 rows: 13 features + Churn target)
 └── model/
