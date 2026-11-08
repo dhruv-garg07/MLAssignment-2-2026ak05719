@@ -7,6 +7,8 @@ Dataset: UCI Iranian Telecom Customer Churn Dataset (ID: 563)
 Instances: 3,150 | Input Features: 13 | Target: Churn (0 = Non-Churn, 1 = Churn)
 """
 
+from __future__ import annotations
+
 import io
 import json
 import platform
