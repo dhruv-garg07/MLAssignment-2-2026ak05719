@@ -48,13 +48,12 @@ Customer churn (attrition) is a critical revenue challenge in the telecommunicat
 
 ## c. Github Repository Link
 
-- **GitHub Repository Link:** `<INSERT_YOUR_GITHUB_REPOSITORY_URL_HERE>`
-- **Live Streamlit App Link:** `<INSERT_YOUR_STREAMLIT_CLOUD_APP_URL_HERE>`
+- **GitHub Repository Link:** [https://github.com/dhruv-garg07/MLAssignment-2-2026ak05719](https://github.com/dhruv-garg07/MLAssignment-2-2026ak05719)
 
 ### Repository Structure
 
 ```text
-MLAssignment-2/
+MLAssignment-2-2026ak05719/
 ├── app.py                         # Interactive Streamlit web application (inference-only)
 ├── requirements.txt               # Python package dependencies for deployment
 ├── README.md                      # Project documentation, metrics, and model analysis
