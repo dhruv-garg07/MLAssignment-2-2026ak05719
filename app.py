@@ -303,7 +303,10 @@ def main() -> None:
                 "F1": "{:.4f}",
                 "MCC": "{:.4f}",
             }
-        ).highlight_max(subset=["Accuracy", "AUC", "Precision", "Recall", "F1", "MCC"], color="#d9f2e6"),
+        ).highlight_max(
+            subset=["Accuracy", "AUC", "Precision", "Recall", "F1", "MCC"],
+            props="background-color: #15803d; color: #ffffff; font-weight: bold;",
+        ),
         width="stretch",
         hide_index=True,
     )
