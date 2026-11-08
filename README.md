@@ -49,6 +49,7 @@ Customer churn (attrition) is a critical revenue challenge in the telecommunicat
 ## c. Github Repository Link
 
 - **GitHub Repository Link:** [https://github.com/dhruv-garg07/MLAssignment-2-2026ak05719](https://github.com/dhruv-garg07/MLAssignment-2-2026ak05719)
+- **Live Streamlit App Link:** [https://mlassignment-2-2026ak05719-elxhrtsfbkpbpc8dczlcrg.streamlit.app/](https://mlassignment-2-2026ak05719-elxhrtsfbkpbpc8dczlcrg.streamlit.app/)
 
 ### Repository Structure
 
